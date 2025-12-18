@@ -119,9 +119,19 @@ class _DonateScreenState extends ConsumerState<DonateScreen> {
                 children: [
                   TextFormField(
                     controller: _amountController,
-                    decoration: const InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Amount (BDT)',
-                      prefixIcon: Icon(Icons.attach_money),
+                      prefixIcon: Padding(
+                        padding: const EdgeInsets.all(12.0),
+                        child: Text(
+                          '৳',
+                          style: TextStyle(
+                            fontSize: 20,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.grey[600],
+                          ),
+                        ),
+                      ),
                       hintText: 'e.g. 500',
                     ),
                     keyboardType: TextInputType.number,
