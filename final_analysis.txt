@@ -1,0 +1,23 @@
+Analyzing mobile...                                             
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\status_badge.dart:14:22 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\status_badge.dart:16:41 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\admin\applications\presentation\screens\admin_applications_screen.dart:51:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\admin\applications\presentation\screens\admin_inquiries_screen.dart:49:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\admin\donations\presentation\screens\admin_donations_screen.dart:36:7 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\admin\donations\presentation\screens\admin_donations_screen.dart:53:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\admin\donations\presentation\screens\admin_donations_screen.dart:54:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\admin\events\presentation\screens\admin_events_screen.dart:72:52 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\admin\events\presentation\screens\admin_events_screen.dart:196:9 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\features\admin\events\presentation\screens\admin_events_screen.dart:207:13 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\admin\pets\presentation\screens\admin_pets_screen.dart:145:46 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\admin\pets\presentation\screens\admin_pets_screen.dart:334:11 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\admin\stories\presentation\screens\admin_stories_screen.dart:171:9 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\features\admin\stories\presentation\screens\admin_stories_screen.dart:182:13 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps - lib\features\admin\users\presentation\screens\admin_users_screen.dart:220:11 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\admin\users\presentation\screens\admin_users_screen.dart:236:11 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\features\admin\volunteers\presentation\screens\admin_volunteers_screen.dart:48:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\screens\login_screen.dart:92:31 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\screens\login_screen.dart:115:31 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\screens\register_screen.dart:102:31 - curly_braces_in_flow_control_structures
+

@@ -1,0 +1,8 @@
+Analyzing mobile...                                             
+
+  error - Expected an identifier - lib\features\admin\dashboard\presentation\screens\admin_dashboard_screen.dart:57:60 - missing_identifier
+  error - Expected an identifier - lib\features\admin\dashboard\presentation\screens\admin_dashboard_screen.dart:164:60 - missing_identifier
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\screens\login_screen.dart:92:31 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\screens\login_screen.dart:115:31 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\screens\register_screen.dart:102:31 - curly_braces_in_flow_control_structures
+
